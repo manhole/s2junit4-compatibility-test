@@ -1,1 +1,0 @@
-update aaa set name = /*name*/'hoge' /*BEGIN*/where /*IF id != null*/id = /*id*/1/*END*//*END*/
